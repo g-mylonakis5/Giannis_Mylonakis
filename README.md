@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SlimReaperV
+- 👋 Hi, I’m @g-mylonakis5
 - 👀 I’m interested in Computer Science, Web Developement, Back-End Programming , Bioinfomatics and Artifical Intelligence 
 - 🌱 I’m currently studying Computer Science and Biomedical Informatics @the University of Thessaly
 
